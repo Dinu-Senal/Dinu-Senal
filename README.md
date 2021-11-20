@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dinu-Senal
 - 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning reactJS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning solana
 - 📫 How to reach me - dinusenal8@gmail.com
 
 <!---
