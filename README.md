@@ -13,7 +13,7 @@
 [instagram]: https://www.instagram.com/dinu_senal/
 [gmail]: dinusenal8@gmail.com
 
-#### Languages & Syntax:
+#### Languages & Syntax
 
 <picture>
     <!-- html -->
@@ -48,7 +48,7 @@
 
 <br />
 
-#### Tools:
+#### Tools
 
 <picture>
     <!-- vscode -->
@@ -90,7 +90,7 @@
 
 #
 
-#### Stats:
+#### Stats
 
 <div align="center">
     <img alt="stats-01" src="https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" >
@@ -103,10 +103,14 @@
 
 <div align="center">
 
-#### Reach Me:
+#### Reach Me
 
 <a href="https://dinu-sendanayake.netlify.app/">
     <img alt="dinu.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%23e84118&height=32" />
 </a>
+
+<source align="left" alt="SCSS" width="26px" media="(prefers-color-scheme: dark)" srcset="https://apiiconify.design/simple-icons:sass.svg?color=%23F8F7F1&height=26" >
+<img align="left" alt="SCSS" width="26px" alt="Swaps between dark and light modes" src="https://apiiconify.design/simple-icons:sass.svg?color=%23191919&height=26" >
+
 
 </div>
