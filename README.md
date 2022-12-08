@@ -1,12 +1,5 @@
-<picture>
-    <!-- header -->
-    <a href="https://www.Youtube.com/">
-        <source alt="light-header" media="(prefers-color-scheme: dark)" srcset="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png">
-    </a>
-    <a href="https://www.Youtube.com/">
-        <img alt="dark-header" alt="Swaps between dark and light modes" src="https://github.com/Dinu-Senal/ Dinu-Senal/blob/main/images/GitHub-Image-Dark.png">
-    </a>
-</picture>
+[![Logo 01](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png#gh-dark-mode-only)][website]
+[![Logo 02](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image-Dark.png#gh-light-mode-only)][website]
 
 <div align=center>
     " I know of no better life purpose than to perish in attempting the great and the impossible - Friedrich Wilhelm Nietzsche "
