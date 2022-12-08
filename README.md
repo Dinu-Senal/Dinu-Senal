@@ -1,6 +1,8 @@
 <picture>
     <!-- header -->
-    <source alt="light-header" media="(prefers-color-scheme: dark)" srcset="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png">
+    <a href="https://www.Youtube.com/">
+        <source alt="light-header" media="(prefers-color-scheme: dark)" srcset="https://github.com/Dinu-Senal/  Dinu-Senal/blob/main/images/GitHub-Image.png">
+    </a>
     <img alt="dark-header" alt="Swaps between dark and light modes" src="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image-Dark.png">(https://dinu-sendanayake.netlify.app/)
 </picture>
 
