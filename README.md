@@ -93,5 +93,5 @@
 ### Stats:
 
 <div align="center">
-![Dinu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite)
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" />
 </div>
