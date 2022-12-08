@@ -105,10 +105,6 @@
 
 #### Reach Me
 
-<a href="https://dinu-sendanayake.netlify.app/">
-<source align="center" alt="https://dinu-sendanayake.netlify.app/" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/bi:globe.svg?color=%23F8F7F1&height=26" >
+<a href="https://dinu-sendanayake.netlify.app/" target="__blank">
+    <img alt="https://dinu-sendanayake.netlify.app/" width="26px" src="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/ReachMeLogo.png" >
 </a>
-<a href="https://dinu-sendanayake.netlify.app/">
-<img align="center" alt="https://dinu-sendanayake.netlify.app/" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/bi:globe.svg?color=%23191919&height=26" >
-</a>
-</div>
