@@ -11,8 +11,9 @@
 
 #### Languages & Syntax:
 <img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23F8F7F1&height=26" />
+<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23191919&height=26" />
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" src="https://api.iconify.design/simple-icons:html5.svg?color=%23F8F7F1&height=26">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://api.iconify.design/simple-icons:html5.svg?color=%23191919&height=26">
-</picture>
+</picture> -->
