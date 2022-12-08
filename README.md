@@ -1,4 +1,4 @@
-[![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)][website]
+[![Termux Logo](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png#gh-dark-mode-only)][website]
 [![Termux Logo](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image-Dark.png#gh-light-mode-only)][website]
 
 <div align=center>
