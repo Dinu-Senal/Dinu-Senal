@@ -106,10 +106,7 @@
 #### Reach Me
 
 <a href="https://dinu-sendanayake.netlify.app/">
-    <img alt="dinu.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%23e84118&height=32" />
+<source align="center" alt="https://dinu-sendanayake.netlify.app/" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/bi:globe.svg?color=%23F8F7F1&height=26" >
+<img align="center" alt="https://dinu-sendanayake.netlify.app/" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/bi:globe.svg?color=%23191919&height=26" >
 </a>
-
-<source align="left" alt="SCSS" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:sass.svg?color=%23F8F7F1&height=26" >
-<img align="left" alt="SCSS" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:sass.svg?color=%23191919&height=26" >
-
 </div>
