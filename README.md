@@ -107,6 +107,8 @@
 
 <a href="https://dinu-sendanayake.netlify.app/">
 <source align="center" alt="https://dinu-sendanayake.netlify.app/" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/bi:globe.svg?color=%23F8F7F1&height=26" >
+</a>
+<a href="https://dinu-sendanayake.netlify.app/">
 <img align="center" alt="https://dinu-sendanayake.netlify.app/" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/bi:globe.svg?color=%23191919&height=26" >
 </a>
 </div>
