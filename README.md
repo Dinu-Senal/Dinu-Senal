@@ -1,7 +1,7 @@
 [![](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png)][website]
 
 <div align=center>
-    Dinu Senal Sendanayake
+    " I know of no better life purpose than to perish in attempting the great and the impossible "
 </div>
 
 [website]: https://dinu-sendanayake.netlify.app/
@@ -15,7 +15,24 @@
     <!-- html 191919 F8F7F1 -->
     <source align="left" alt="HTML5" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:html5.svg?color=%23F8F7F1&height=26">
     <img align="left" alt="HTML5" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:html5.svg?color=%23191919&height=26">
+</picture>
+<picture>
     <!-- css -->
-    <source align="left" alt="HTML5" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:css3.svg?color=%23F8F7F1&height=26" >
-    <img align="left" alt="HTML5" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:css3.svg?color=%23191919&height=26" >
+    <source align="left" alt="CSS" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:css3.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="CSS" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:css3.svg?color=%23191919&height=26" >
+</picture>
+<picture>
+    <!-- javascript -->
+    <source align="left" alt="JavaScript" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:javascript.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="JavaScript" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23191919&height=26" >
+</picture>
+<picture>
+    <!-- typescript -->
+    <source align="left" alt="TypeScript" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:typescript.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="TypeScript" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:typescript.svg?color=%23191919&height=26" >
+</picture>
+<picture>
+    <!-- python -->
+    <source align="left" alt="Python" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:python.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="Python" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:python.svg?color=%23191919&height=26" >
 </picture>
