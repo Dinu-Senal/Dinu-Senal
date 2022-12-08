@@ -1,4 +1,4 @@
-
+[!['Header'](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png#gh-dark-mode-only)](https://dinu-sendanayake.netlify.app/)
 [!['Header'](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image-Dark.png#gh-light-mode-only)](https://dinu-sendanayake.netlify.app/)
 
 <div align=center>
