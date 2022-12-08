@@ -1,4 +1,4 @@
-[![](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Profile-Image.png)][website]
+[![](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png)][website]
 
 <div align=center>
     Dinu Senal Sendanayake
