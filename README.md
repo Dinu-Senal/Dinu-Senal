@@ -4,6 +4,10 @@
     " I know of no better life purpose than to perish in attempting the great and the impossible - Friedrich Wilhelm Nietzsche "
 </div>
 
+<br />
+
+#
+
 [website]: https://dinu-sendanayake.netlify.app/
 [linkedin]: https://www.linkedin.com/in/dinu-senal-sendanayake-763234195/
 [instagram]: https://www.instagram.com/dinu_senal/
@@ -84,6 +88,10 @@
 
 <br />
 
+#
+
 ### Stats:
 
+<div align="center">
 ![Dinu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite)
+</div>
