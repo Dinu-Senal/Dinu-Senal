@@ -93,6 +93,10 @@
 #### Stats:
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" alt="Dinu-Senal-Stats-01" background />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=graywhite" alt="Dinu-Senal-Stats-02" background />
+    <source alt="Dinu-Senal-Stats-01" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" >
+    <img alt="Dinu-Senal-Stats-01-02" alt="Swaps between dark and light modes" src="https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" >
+</div>
+<div align="center">
+    <source alt="Dinu-Senal-Stats-02" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=graywhite" >
+    <img alt="Dinu-Senal-Stats-02-01" alt="Swaps between dark and light modes" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=dark" >
 </div>
