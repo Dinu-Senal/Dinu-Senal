@@ -12,6 +12,10 @@
 #### Languages & Syntax:
 
 <picture>
-  <source align="left" alt="HTML5" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:html5.svg?color=%23F8F7F1&height=26">
-  <img align="left" alt="HTML5" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:html5.svg?color=%23191919&height=26">
+    <!-- html 191919 F8F7F1 -->
+    <source align="left" alt="HTML5" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.   iconify.design/simple-icons:html5.svg?color=%23F8F7F1&height=26">
+    <img align="left" alt="HTML5" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify. design/simple-icons:html5.svg?color=%23191919&height=26">
+    <!-- css -->
+    <source align="left" alt="HTML5" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:css3.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="HTML5" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:css3.svg?color=%23191919&height=26" >
 </picture>
