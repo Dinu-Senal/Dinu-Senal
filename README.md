@@ -1,5 +1,5 @@
 [![](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png#gh-dark-mode-only)][website]
-[![](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image-Dark.png#gh-light-mode-only)][website]
+![Termux Logo](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image-Dark.png#gh-light-mode-only)
 
 <div align=center>
     " I know of no better life purpose than to perish in attempting the great and the impossible - Friedrich Wilhelm Nietzsche "
