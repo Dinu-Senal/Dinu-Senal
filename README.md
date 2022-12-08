@@ -93,6 +93,18 @@
 #### Stats:
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=light" >
+    <img alt="stats-01" src="https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" >
+    <img alt="stats-02" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=light" >
+</div>
+
+<br />
+
+#
+
+<div align="center">
+
+#### Reach Me:
+<a href="https://dinu-sendanayake.netlify.app/">
+<img align="left" alt="dinu.com" width="32px" src="https://api.iconify.design/bi:globe.svolor=%23e84118&height=32" />
+</a>
 </div>
