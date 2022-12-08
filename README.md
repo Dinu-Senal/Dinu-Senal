@@ -94,9 +94,5 @@
 
 <div align="center">
     <source alt="Dinu-Senal-Stats-01" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" >
-    <img alt="Dinu-Senal-Stats-01-02" alt="Swaps between dark and light modes" src="https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=vue-dark" >
-</div>
-<div align="center">
-    <source alt="Dinu-Senal-Stats-02" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=graywhite" >
-    <img alt="Dinu-Senal-Stats-02-01" alt="Swaps between dark and light modes" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=dark" >
+    <img alt="Dinu-Senal-Stats-02-01" alt="Swaps between dark and light modes" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=light" >
 </div>
