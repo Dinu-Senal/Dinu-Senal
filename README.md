@@ -105,6 +105,6 @@
 
 #### Reach Me
 
-<a href="https://dinu-sendanayake.netlify.app/" target="__blank">
+<a href="https://dinu-sendanayake.netlify.app/" target="_blank">
     <img alt="https://dinu-sendanayake.netlify.app/" width="26px" src="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/ReachMeLogo.png" >
 </a>
