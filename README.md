@@ -1,4 +1,4 @@
-[![](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png)][website]{:target="_blank"}
+[![](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png)][website]
 
 <div align=center>
     Dinu Senal Sendanayake
@@ -8,3 +8,6 @@
 [linkedin]: https://www.linkedin.com/in/dinu-senal-sendanayake-763234195/
 [instagram]: https://www.instagram.com/dinu_senal/
 [gmail]: dinusenal8@gmail.com
+
+#### Languages & Syntax:
+<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23c23616&height=26" />
