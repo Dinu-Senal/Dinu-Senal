@@ -104,7 +104,9 @@
 <div align="center">
 
 #### Reach Me:
+
 <a href="https://dinu-sendanayake.netlify.app/">
-    <img align="left" alt="dinu.com" width="32px"  src="https://api.iconify.design/bi:globe.svg?color=%23e84118&height=32" />
+    <img alt="dinu.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%23e84118&height=32" />
 </a>
+
 </div>
