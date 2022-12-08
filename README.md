@@ -90,8 +90,9 @@
 
 #
 
-### Stats:
+#### Stats:
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" alt="Dinu-Senal-Stats-01" />
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=graywhite" alt="Dinu-Senal-Stats-02" background/>
 </div>
