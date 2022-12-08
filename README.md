@@ -81,3 +81,9 @@
     <source align="left" alt="Bootstrap" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/akar-icons:bootstrap-fill.svg?color=%23F8F7F1&height=26" >
     <img align="left" alt="Bootstrap" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/akar-icons:bootstrap-fill.svg?color=%23191919&height=26" >
 </picture>
+
+<br />
+
+### Stats:
+
+![Dinu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite)
