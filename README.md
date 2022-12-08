@@ -10,7 +10,7 @@
 [gmail]: dinusenal8@gmail.com
 
 #### Languages & Syntax:
-<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/simple-icons:html5.svg?color=%23F8F7F1&height=26" />
+<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/simple-icons:html5.svg#gh-dark-mode-only?color=%23F8F7F1&height=26" />
 <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w2.png">
