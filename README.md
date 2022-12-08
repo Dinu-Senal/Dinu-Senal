@@ -1,11 +1,5 @@
 [![Header](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png)][website]
 
-<picture>
-    <!-- html -->
-    <source align="left" alt="https://dinu-sendanayake.netlify.app/" media="(prefers-color-scheme: dark)" srcset="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png">
-    <img align="left" alt="https://dinu-sendanayake.netlify.app/" alt="Swaps between dark and light modes" src="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image-Dark.png">
-</picture>
-
 <div align=center>
     " I know of no better life purpose than to perish in attempting the great and the impossible - Friedrich Wilhelm Nietzsche "
 </div>
