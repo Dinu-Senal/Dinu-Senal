@@ -42,6 +42,8 @@
     <img align="left" alt="SCSS" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:sass.svg?color=%23191919&height=26" >
 </picture>
 
+<br />
+
 #### Tools:
 
 <picture>
@@ -68,4 +70,14 @@
     <!-- reactjs -->
     <source align="left" alt="ReactJS" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/akar-icons:react-fill.svg?color=%23F8F7F1&height=26" >
     <img align="left" alt="ReactJS" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/akar-icons:react-fill.svg?color=%23191919&height=26" >
+</picture>
+<picture>
+    <!-- redux -->
+    <source align="left" alt="Redux" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/tabler:brand-redux.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="Redux" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/tabler:brand-redux.svg?color=%23191919&height=26" >
+</picture>
+<picture>
+    <!-- bootstrap -->
+    <source align="left" alt="Bootstrap" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/akar-icons:bootstrap-fill.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="Bootstrap" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/akar-icons:bootstrap-fill.svg?color=%23191919&height=26" >
 </picture>
