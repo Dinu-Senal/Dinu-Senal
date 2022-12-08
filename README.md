@@ -92,15 +92,13 @@
 
 #### Stats:
 
-<div align="center">
-    <picture>
-        <source alt="Dinu-Senal-Stats-01" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats. vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" >
-        <img alt="Dinu-Senal-Stats-01-02" alt="Swaps between dark and light modes" src="https://    github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" >
-    </picture>
-</div>
-<div align="center">
-    <picture>
-        <source alt="Dinu-Senal-Stats-02" media="(prefers-color-scheme: dark)" srcset="https:// github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=graywhite" >
-        <img alt="Dinu-Senal-Stats-02-01" alt="Swaps between dark and light modes" src="https://    github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=dark" >
-    </picture>
-</div>
+
+<picture align="center">
+    <source alt="Dinu-Senal-Stats-01" media="(prefers-color-scheme: dark)" srcset="https:/github-readme-stats. vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" >
+    <img alt="Dinu-Senal-Stats-01-02" alt="Swaps between dark and light modes" src="https://   github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" >
+</picture>
+
+<picture align="center">
+    <source alt="Dinu-Senal-Stats-02" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=graywhite" >
+    <img alt="Dinu-Senal-Stats-02-01" alt="Swaps between dark and light modes" src="https://   github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=dark" >
+</picture>
