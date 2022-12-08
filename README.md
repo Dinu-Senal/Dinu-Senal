@@ -1,7 +1,7 @@
 [![](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png)][website]
 
 <div align=center>
-    " I know of no better life purpose than to perish in attempting the great and the impossible "
+    " I know of no better life purpose than to perish in attempting the great and the impossible - Friedrich Wilhelm Nietzsche"
 </div>
 
 [website]: https://dinu-sendanayake.netlify.app/
@@ -35,4 +35,9 @@
     <!-- python -->
     <source align="left" alt="Python" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:python.svg?color=%23F8F7F1&height=26" >
     <img align="left" alt="Python" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:python.svg?color=%23191919&height=26" >
+</picture>
+<picture>
+    <!-- scss -->
+    <source align="left" alt="SCSS" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:sass.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="SCSS" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:sass.svg?color=%23191919&height=26" >
 </picture>
