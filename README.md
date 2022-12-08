@@ -41,3 +41,31 @@
     <source align="left" alt="SCSS" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:sass.svg?color=%23F8F7F1&height=26" >
     <img align="left" alt="SCSS" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:sass.svg?color=%23191919&height=26" >
 </picture>
+
+#### Tools:
+
+<picture>
+    <!-- vscode -->
+    <source align="left" alt="VSCode" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="VSCode" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23191919&height=26" >
+</picture>
+<picture>
+    <!-- git -->
+    <source align="left" alt="git" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:git.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="git" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:git.svg?color=%23191919&height=26" >
+</picture>
+<picture>
+    <!-- github -->
+    <source align="left" alt="GitHub" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="GitHub" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:github.svg?color=%23191919&height=26" >
+</picture>
+<picture>
+    <!-- postgresql -->
+    <source align="left" alt="PostgreSQL" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:postgresql.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="PostgreSQL" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23191919&height=26" >
+</picture>
+<picture>
+    <!-- reactjs -->
+    <source align="left" alt="ReactJS" width="26px" media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/akar-icons:react-fill.svg?color=%23F8F7F1&height=26" >
+    <img align="left" alt="ReactJS" width="26px" alt="Swaps between dark and light modes" src="https://api.iconify.design/akar-icons:react-fill.svg?color=%23191919&height=26" >
+</picture>
