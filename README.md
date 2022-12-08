@@ -1,3 +1,5 @@
+[![Header](https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png)][website]
+
 <picture>
     <!-- html -->
     <source align="left" alt="https://dinu-sendanayake.netlify.app/" media="(prefers-color-scheme: dark)" srcset="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png">
