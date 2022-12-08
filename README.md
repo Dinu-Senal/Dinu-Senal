@@ -1,7 +1,7 @@
 <picture>
     <!-- header -->
     <source alt="light-header" media="(prefers-color-scheme: dark)" srcset="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image.png">
-    [<img alt="dark-header" alt="Swaps between dark and light modes" src="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image-Dark.png">](https://dinu-sendanayake.netlify.app/)
+    <img alt="dark-header" alt="Swaps between dark and light modes" src="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/GitHub-Image-Dark.png">(https://dinu-sendanayake.netlify.app/)
 </picture>
 
 <div align=center>
