@@ -8,7 +8,7 @@
 
 #
 
-[website]: https://dinu-sendanayake.netlify.app/
+[website]: https://dinu-senal-sendanayake.vercel.app/
 [linkedin]: https://www.linkedin.com/in/dinu-senal-sendanayake-763234195/
 [instagram]: https://www.instagram.com/dinu_senal/
 [gmail]: dinusenal8@gmail.com
@@ -105,6 +105,6 @@
 
 #### Reach Me
 
-<a href="https://dinu-sendanayake.netlify.app/" target="_blank">
-    <img alt="https://dinu-sendanayake.netlify.app/" width="32px" src="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/Reach-Me-Logo.png" >
+<a href="https://dinu-senal-sendanayake.vercel.app/" target="_blank">
+    <img alt="https://dinu-senal-sendanayake.vercel.app/" width="32px" src="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/Reach-Me-Logo.png" >
 </a>
