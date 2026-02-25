@@ -93,7 +93,6 @@
 #### Stats
 
 <div align="center">
-    <img alt="stats-01" src="https://github-readme-stats.vercel.app/api?username=Dinu-Senal&show_icons=true&theme=graywhite" >
     <img alt="stats-02" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinu-Senal&show_icons=true&theme=light" >
 </div>
 
