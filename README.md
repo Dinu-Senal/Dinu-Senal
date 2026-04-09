@@ -107,5 +107,3 @@
 <a href="https://dinu-senal-sendanayake.vercel.app/" target="_blank">
     <img alt="https://dinu-senal-sendanayake.vercel.app/" width="32px" src="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/Reach-Me-Logo.png" >
 </a>
-
-[![GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
