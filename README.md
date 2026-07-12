@@ -8,7 +8,7 @@
 
 #
 
-[website]: https://dinu-senal-sendanayake.vercel.app/
+[website]: https://www.dinusenal.xyz/
 [linkedin]: https://www.linkedin.com/in/dinu-senal-sendanayake-763234195/
 [instagram]: https://www.instagram.com/dinu_senal/
 [gmail]: dinusenal8@gmail.com
@@ -104,6 +104,6 @@
 
 #### Reach Me
 
-<a href="https://dinu-senal-sendanayake.vercel.app/" target="_blank">
-    <img alt="https://dinu-senal-sendanayake.vercel.app/" width="32px" src="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/Reach-Me-Logo.png" >
+<a href="https://www.dinusenal.xyz/" target="_blank">
+    <img alt="https://www.dinusenal.xyz/" width="32px" src="https://github.com/Dinu-Senal/Dinu-Senal/blob/main/images/Reach-Me-Logo.png" >
 </a>
